@@ -38,6 +38,7 @@ public class MiniTest {
         System.out.println(test2(str2));
     }
 
+
     private static String test2(String input) {
         boolean flag=true;
         do {
